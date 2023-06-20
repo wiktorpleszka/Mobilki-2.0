@@ -944,3 +944,238 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.20-14.45.06:330][895]LogDerivedDataCache: F:/Unreal_DDC/SDDC: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
 [2023.06.20-14.53.42:713][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
 [2023.06.20-14.53.42:714][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-15.03.43:139][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.20-15.03.43:140][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-15.13.43:893][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.20-15.13.43:894][990]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-15.23.44:512][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.20-15.23.44:513][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-15.33.44:971][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.20-15.33.44:971][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-15.43.45:657][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.20-15.43.45:657][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-15.45.06:359][580]LogDerivedDataCache: F:/Unreal_DDC/LDDC: Maintenance finished in +00:00:00.008 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-15.45.06:359][580]LogDerivedDataCache: F:/Unreal_DDC/SDDC: Maintenance finished in +00:00:00.005 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-15.53.46:113][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.20-15.53.46:113][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-16.03.46:686][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.20-16.03.46:687][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-16.13.47:348][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.20-16.13.47:349][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-16.23.50:395][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.20-16.23.50:396][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-16.33.50:952][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.20-16.33.50:953][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-16.43.51:407][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.20-16.43.51:407][ 39]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-16.45.08:833][270]LogDerivedDataCache: F:/Unreal_DDC/LDDC: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-16.45.08:833][270]LogDerivedDataCache: F:/Unreal_DDC/SDDC: Maintenance finished in +00:00:00.005 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-16.53.52:155][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.20-16.53.52:156][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-17.03.52:645][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.20-17.03.52:646][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-17.13.53:314][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.20-17.13.53:314][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-17.23.53:955][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.20-17.23.53:955][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-17.33.54:555][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.20-17.33.54:556][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-17.43.55:032][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.20-17.43.55:033][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2023.06.20-17.45.08:652][965]LogDerivedDataCache: F:/Unreal_DDC/LDDC: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-17.45.08:652][965]LogDerivedDataCache: F:/Unreal_DDC/SDDC: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-17.49.36:699][254]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.20-17.49.36:764][254]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.20-17.49.36:769][255]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.20-17.49.39:541][468]LogContentBrowser: Attempting asset rename: NewFolder -> MyBlueprints
+[2023.06.20-17.49.39:542][468]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.20-17.49.48:839][217]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.20-17.50.13:065][217]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.20-17.50.13:070][217]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.20-17.50.13:073][217]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.20-17.50.13:093][219]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.20-17.50.18:108][595]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Turret
+[2023.06.20-17.50.18:112][595]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.20-17.50.19:555][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BP_Turret.BP_Turret
+[2023.06.20-17.50.19:556][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-17.50.21:102][703]LogViewport: Scene viewport resized to 1083x725, mode Windowed.
+[2023.06.20-17.50.58:722][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/BP_Turret" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_Turret.uasset" SILENT=true
+[2023.06.20-17.50.58:724][871]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_Turret
+[2023.06.20-17.50.58:724][871]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/BP_Turret2F262F4F403B5809CEEA74AC49EDC8EE.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_Turret.uasset'
+[2023.06.20-17.50.58:733][871]AssetCheck: New page: Asset Save: BP_Turret
+[2023.06.20-17.50.58:733][871]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/BP_Turret.BP_Turret
+[2023.06.20-17.51.03:675][268]LogViewport: Scene viewport resized to 1081x743, mode Windowed.
+[2023.06.20-17.51.03:765][270]LogViewport: Scene viewport resized to 464x256, mode Windowed.
+[2023.06.20-17.51.03:819][271]LogViewport: Scene viewport resized to 443x239, mode Windowed.
+[2023.06.20-17.51.04:047][295]LogViewport: Scene viewport resized to 1083x725, mode Windowed.
+[2023.06.20-17.51.04:289][319]LogSlate: Window 'BP_Turret' being destroyed
+[2023.06.20-17.51.05:901][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.20-17.51.05:914][456]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.06.20-17.51.05:915][456]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/Minimal_Default6481ADAD4BEA51F460E54ABBA7A486B7.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.06.20-17.51.05:923][456]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2023.06.20-17.51.05:938][456]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2023.06.20-17.51.05:938][456]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/Minimal_Default_BuiltDataA1FE2BDA47DFD6D009960380E4DE4903.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.06.20-17.51.05:938][456]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2023.06.20-17.51.05:946][456]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.20-17.51.05:946][456]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.06.20-17.51.05:946][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.06.20-17.51.11:834][986]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.20-17.51.11:904][986]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.20-17.51.11:909][987]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.20-17.51.13:886][132]LogContentBrowser: Attempting asset rename: NewFolder -> Turrets
+[2023.06.20-17.51.13:886][132]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.BP_Turret:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.SKEL_BP_Turret_C:UserConstructionScript' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.SKEL_BP_Turret_C' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.BP_Turret_C' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.BP_Turret:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.BP_Turret:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:164][350]LogMetaData: Removing '/Game/MyBlueprints/Turrets/BP_Turret.BP_Turret:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyBlueprints/BP_Turret.PackageMetaData'
+[2023.06.20-17.51.16:191][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Turrets/BP_Turret" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/Turrets/BP_Turret.uasset" SILENT=true
+[2023.06.20-17.51.16:193][350]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Turrets/BP_Turret
+[2023.06.20-17.51.16:193][350]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/BP_Turret84EE54D74E39CEAC4A0E6D9D834D0D52.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/Turrets/BP_Turret.uasset'
+[2023.06.20-17.51.16:229][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.06.20-17.51.16:251][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.20-17.51.16:272][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.20-17.51.16:285][350]AssetCheck: New page: Asset Save: BP_Turret
+[2023.06.20-17.51.16:285][350]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Turrets/BP_Turret.BP_Turret
+[2023.06.20-17.51.30:847][929]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.20-17.51.30:886][929]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.20-17.51.30:889][929]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.20-17.51.30:894][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.20-17.51.34:907][222]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy
+[2023.06.20-17.51.34:911][222]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.20-17.51.36:826][384]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.20-17.51.36:832][384]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.20-17.51.36:836][385]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.20-17.51.38:589][511]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2023.06.20-17.51.38:589][511]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.SKEL_Enemy_C:UserConstructionScript' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.SKEL_Enemy_C' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.Enemy_C' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:735][725]LogMetaData: Removing '/Game/MyBlueprints/Enemies/Enemy.Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyBlueprints/Enemy.PackageMetaData'
+[2023.06.20-17.51.40:756][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Enemies/Enemy" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/Enemies/Enemy.uasset" SILENT=true
+[2023.06.20-17.51.40:758][725]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Enemies/Enemy
+[2023.06.20-17.51.40:758][725]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/Enemy2669DA224FF4993C5CA3229B00BA90F9.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/Enemies/Enemy.uasset'
+[2023.06.20-17.51.40:795][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.20-17.51.40:816][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.20-17.51.40:837][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.20-17.51.40:850][725]AssetCheck: New page: Asset Save: Enemy
+[2023.06.20-17.51.40:850][725]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Enemies/Enemy.Enemy
+[2023.06.20-17.51.42:045][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Enemies/Enemy.Enemy
+[2023.06.20-17.51.42:045][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-17.51.42:428][837]LogViewport: Scene viewport resized to 1083x725, mode Windowed.
+[2023.06.20-17.52.12:156][369]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-17.52.12:157][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-17.52.24:432][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.20-17.52.25:382][312]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.20-17.52.25:407][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.20-17.52.25:427][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.06.20-17.52.25:448][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.20-17.52.29:443][432]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.20-17.52.29:482][432]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.20-17.52.29:485][432]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.20-17.52.29:498][434]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.20-17.52.35:303][856]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy
+[2023.06.20-17.52.35:307][856]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.20-17.52.36:412][939]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Enemies/Enemy.Enemy
+[2023.06.20-17.52.36:413][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-17.52.36:752][939]LogViewport: Scene viewport resized to 1083x725, mode Windowed.
+[2023.06.20-17.53.18:254][873]LogSlate: Took 0.005240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.20-17.53.55:781][347]BlueprintLog: New page: Compile Enemy
+[2023.06.20-17.53.55:820][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.20-17.54.47:907][465]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.20-17.54.47:948][465]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.20-17.54.47:951][465]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.20-17.54.47:956][466]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.20-17.54.50:411][645]LogContentBrowser: Attempting asset rename: NewBlueprint -> Start
+[2023.06.20-17.54.50:415][645]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.20-17.54.58:895][435]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.20-17.54.58:900][435]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.20-17.54.58:904][435]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.20-17.54.58:910][436]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.20-17.55.00:689][565]LogContentBrowser: Attempting asset rename: NewBlueprint -> End
+[2023.06.20-17.55.00:693][565]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.20-17.55.13:058][507]LogContentBrowser: Attempting asset rename: Enemy -> BP_Enemy
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.BP_Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.SKEL_BP_Enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.SKEL_BP_Enemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.SKEL_BP_Enemy_C:ReceiveTick' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:074][507]LogMetaData: Removing '/Game/MyBlueprints/Enemies/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/MyBlueprints/Enemies/Enemy.PackageMetaData'
+[2023.06.20-17.55.13:115][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Enemies/BP_Enemy" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/Enemies/BP_Enemy.uasset" SILENT=true
+[2023.06.20-17.55.13:118][507]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Enemies/BP_Enemy
+[2023.06.20-17.55.13:118][507]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/BP_EnemyF971CB0A4CEDB03C8B0E85B94D04BAA5.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/Enemies/BP_Enemy.uasset'
+[2023.06.20-17.55.13:159][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.20-17.55.13:185][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.20-17.55.13:209][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.20-17.55.13:213][507]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.20-17.55.13:213][507]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Enemies/BP_Enemy.BP_Enemy
+[2023.06.20-17.55.16:902][784]LogContentBrowser: Attempting asset rename: End -> BP_End
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.BP_End:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.SKEL_BP_End_C:UserConstructionScript' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.SKEL_BP_End_C' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.BP_End_C' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.BP_End:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.BP_End:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:918][784]LogMetaData: Removing '/Game/MyBlueprints/BP_End.BP_End:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyBlueprints/End.PackageMetaData'
+[2023.06.20-17.55.16:956][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/BP_End" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_End.uasset" SILENT=true
+[2023.06.20-17.55.16:958][784]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_End
+[2023.06.20-17.55.16:958][784]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/BP_End135ADF164FBC6ECAA1B1F79182CD8817.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_End.uasset'
+[2023.06.20-17.55.16:995][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.20-17.55.17:022][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.20-17.55.17:046][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.20-17.55.17:051][784]AssetCheck: New page: Asset Save: BP_End
+[2023.06.20-17.55.17:051][784]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/BP_End.BP_End
+[2023.06.20-17.55.23:317][258]LogContentBrowser: Attempting asset rename: Start -> BP_Start
+[2023.06.20-17.55.23:332][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.BP_Start:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:332][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.SKEL_BP_Start_C:UserConstructionScript' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:332][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.SKEL_BP_Start_C' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:332][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.BP_Start_C' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:333][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.BP_Start:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:333][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.BP_Start:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:333][258]LogMetaData: Removing '/Game/MyBlueprints/BP_Start.BP_Start:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyBlueprints/Start.PackageMetaData'
+[2023.06.20-17.55.23:368][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/BP_Start" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_Start.uasset" SILENT=true
+[2023.06.20-17.55.23:371][258]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_Start
+[2023.06.20-17.55.23:371][258]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/BP_Start6BEBB5BC47CAD18B06FC2AB9498BF237.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_Start.uasset'
+[2023.06.20-17.55.23:408][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.20-17.55.23:433][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.20-17.55.23:458][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.20-17.55.23:462][258]AssetCheck: New page: Asset Save: BP_Start
+[2023.06.20-17.55.23:462][258]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/BP_Start.BP_Start
+[2023.06.20-17.55.23:998][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/BP_Start" FILE="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_Start.uasset" SILENT=true
+[2023.06.20-17.55.24:000][295]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_Start
+[2023.06.20-17.55.24:000][295]LogSavePackage: Moving 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Saved/BP_StartBD68640F408E65EDB7FBC6A2F4092AA4.tmp' to 'F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Content/MyBlueprints/BP_Start.uasset'
+[2023.06.20-17.55.24:008][295]AssetCheck: New page: Asset Save: BP_Start
+[2023.06.20-17.55.24:008][295]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/BP_Start.BP_Start
+[2023.06.20-17.55.42:571][ 84]LogSlate: Took 0.003875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.20-17.56.00:486][214]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-218C96U
+[2023.06.20-17.56.00:486][214]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Mobilki_2_0.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Intermediate/TurnkeyReport_1.log" -log="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Intermediate/TurnkeyLog_1.log" -project="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Mobilki_2_0.uproject"  -Device=Win64@DESKTOP-218C96U'
+[2023.06.20-17.56.00:486][214]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""Q:/Conrado/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Mobilki_2_0.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Intermediate/TurnkeyReport_1.log" -log="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Intermediate/TurnkeyLog_1.log" -project="F:/Unreal Projects/Mobilki/Mobilki-2.0/Mobilki_2_0/Mobilki_2_0.uproject"  -Device=Win64@DESKTOP-218C96U" -nocompile ]
+[2023.06.20-17.56.04:329][606]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.06.20-17.56.04:329][606]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-218C96U: (Name=DESKTOP-218C96U, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:\Users\Dante\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:\Users\Dante\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2023.06.20-17.56.10:107][147]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.06.20-17.57.20:262][591]LogWindows: Warning: CreateProc failed: Odmowa dostępu. (0x00000005)
+[2023.06.20-17.57.20:262][591]LogWindows: Warning: URL: Q:/Conrado/UE_5.0/Engine/Binaries/Win64/ version
